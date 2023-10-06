@@ -2,8 +2,8 @@
 OPC.Generic_Input.[1].DataType,Bool
 OPC.Generic_Input.[1].CommProtocol,S7 Plus
 OPC.Generic_Input.[1].Unit,N/A
-OPC.Generic_Input.[1].Source_Address,I1.1
-OPC.Generic_Input.[1].Description,VIGNETTE END OF REEL PREALARM
+OPC.Generic_Input.[1].Source_Address,I1.5
+OPC.Generic_Input.[1].Description,alec messing around
 OPC.Generic_Input.[1].Digital_State_Set_Description,N/A
 OPC.Generic_Input.[1].Historical_Data_Recovery_Address,N/A
 OPC.Generic_Input.[1].Scaling,N/A
