@@ -2,8 +2,8 @@
 OPC.Generic_Input.[1].DataType,Bool
 OPC.Generic_Input.[1].CommProtocol,S7 Plus
 OPC.Generic_Input.[1].Unit,N/A
-OPC.Generic_Input.[1].Source_Address,I0.0
-OPC.Generic_Input.[1].Description,T.E.1 End of Reel
+OPC.Generic_Input.[1].Source_Address,I1.1
+OPC.Generic_Input.[1].Description,VIGNETTE END OF REEL PREALARM
 OPC.Generic_Input.[1].Digital_State_Set_Description,N/A
 OPC.Generic_Input.[1].Historical_Data_Recovery_Address,N/A
 OPC.Generic_Input.[1].Scaling,N/A
@@ -16,9 +16,33 @@ OPC.Generic_Input.[1].Batch_Context,N/A
 OPC.Generic_Input.[1].Selected,N/A
 OPC.Generic_Input.[1].Tag_Type,Bool
 OPC.Generic_Input.[1].Classification,N/A
-OPC.Generic_Input.[1].Machine_Symbolic_Name,T.E.1 End of Reel
+OPC.Generic_Input.[1].Machine_Symbolic_Name,VIGNETTE END OF REEL PREALARM
 OPC.Generic_Input.[1].AF_Attribute_Name,N/A
-OPC.Generic_Input.[1].AF_Asset_Description,T.E.1 End of Reel
-OPC.Generic_Input.[1].Description_Details,T.E.1 End of Reel
+OPC.Generic_Input.[1].AF_Asset_Description,VIGNETTE END OF REEL PREALARM
+OPC.Generic_Input.[1].Description_Details,VIGNETTE END OF REEL PREALARM
 OPC.Generic_Input.[1].AF_Category,A1 Labeller Inputs
 OPC.Generic_Input.[1].Precision,N/A
+OPC.Generic_Input.[2].ReadWrite,0
+OPC.Generic_Input.[2].DataType,Bool
+OPC.Generic_Input.[2].CommProtocol,S7 Plus
+OPC.Generic_Input.[2].Unit,N/A
+OPC.Generic_Input.[2].Source_Address,I0.1
+OPC.Generic_Input.[2].Description,TE1 END OF REEL PREALARM
+OPC.Generic_Input.[2].Digital_State_Set_Description,N/A
+OPC.Generic_Input.[2].Historical_Data_Recovery_Address,N/A
+OPC.Generic_Input.[2].Scaling,N/A
+OPC.Generic_Input.[2].Stepped,N/A
+OPC.Generic_Input.[2].Min_Process_Value,N/A
+OPC.Generic_Input.[2].Max_Process_Value,N/A
+OPC.Generic_Input.[2].Engineering_Unit,N/A
+OPC.Generic_Input.[2].Stopping_Alarm,N/A
+OPC.Generic_Input.[2].Batch_Context,N/A
+OPC.Generic_Input.[2].Selected,N/A
+OPC.Generic_Input.[2].Tag_Type,Bool
+OPC.Generic_Input.[2].Classification,N/A
+OPC.Generic_Input.[2].Machine_Symbolic_Name,TE1 END OF REEL PREALARM
+OPC.Generic_Input.[2].AF_Attribute_Name,N/A
+OPC.Generic_Input.[2].AF_Asset_Description,TE1 END OF REEL PREALARM
+OPC.Generic_Input.[2].Description_Details,TE1 END OF REEL PREALARM
+OPC.Generic_Input.[2].AF_Category,A1 Labeller Inputs
+OPC.Generic_Input.[2].Precision,N/A
